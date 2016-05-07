@@ -1,0 +1,40 @@
+*[role="register-form"] {
+    max-width: 530px;
+    padding: 15px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 0.3em;
+}
+
+*[role="register-form"] h2 {
+    margin-left: 5em;
+    margin-bottom: 1em;
+}
+
+.text-vertical-center {
+    display: table-cell;
+    text-align: center;
+    color: #FFF;
+    vertical-align: middle;
+}
+
+.text-vertical-center h1 {
+    margin: 0;
+    padding-right: 250px;
+    font-size: 4.5em;
+    font-weight: 700;
+}
+
+#home {
+    display: table;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding-top: 400px;
+    padding-bottom: 250px;
+    background: url(../images/bck.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
